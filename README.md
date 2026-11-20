@@ -50,3 +50,7 @@ Get-FileHash .\OSnagit-<version>-x64-setup.exe -Algorithm SHA256
 ```
 
 The hash should match the line in `SHA256SUMS.txt`. The installer is not code signed, so Windows SmartScreen may warn you the first time you run it.
+
+## Revision history
+
+See [REVISION-HISTORY.md](REVISION-HISTORY.md) for the change log of every version (Thai).
