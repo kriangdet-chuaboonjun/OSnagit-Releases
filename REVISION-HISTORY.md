@@ -2,6 +2,14 @@
 
 ประวัติการเปลี่ยนแปลงของ OSnagit ตั้งแต่รุ่น 0.1.12 (รุ่นใหม่อยู่บนสุด) ดาวน์โหลดตัวติดตั้งได้ที่หน้า [Releases](https://github.com/kriangdet-chuaboonjun/OSnagit-Releases/releases)
 
+## [OSnagit 0.1.24](https://github.com/kriangdet-chuaboonjun/OSnagit-Releases/releases/tag/v0.1.24) — 2026-11-26
+
+- **แปลข้อความจากภาพเป็นภาษาไทย** ใน Capture Text และ Grab Text ด้วย Azure Translator หรือ Google Cloud Translation
+- เมื่อกดแปล หน้าต่างจะแสดงต้นฉบับกับคำแปลเคียงกัน ลากปรับสัดส่วน คัดลอกแยกแต่ละฝั่ง หรือพับแผงคำแปลได้
+- ใช้แท็บ **OCR** ในหน้าตั้งค่าเพื่อจัดการ API key และเลือกบริการแปลเริ่มต้น ครั้งที่ต้องการใช้บริการอื่นสามารถเปลี่ยนได้ในหน้าต่างแปล
+
+ดาวน์โหลด `OSnagit-0.1.24-x64-setup.exe` สำหรับ Windows x64 หรือตรวจหาอัปเดตจาก **Settings > ทั่วไป** ใน OSnagit
+
 ## [OSnagit 0.1.23](https://github.com/kriangdet-chuaboonjun/OSnagit-Releases/releases/tag/v0.1.23) — 2026-11-26
 
 - **Library** ปรับขนาดภาพย่อด้วยสไลเดอร์หรือ Ctrl + หมุนล้อเมาส์
